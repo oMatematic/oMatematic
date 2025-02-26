@@ -2,6 +2,7 @@
 
 **`Desenvolvedora Backend`**
 
+Alex Ramos, natural de Salvador, Bahia. Sou formado em Análise e Desenvolvimento de Sistemas pela Unifacs - Universidade Salvador. Tenho uma forte paixão por tecnologia e trabalho constantemente para expandir meus conhecimentos na área de desenvolvimento, inteligência artificial e análise de dados.
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oMatematic&show_icons=true&theme=catppuccin_mocha">
@@ -130,6 +131,7 @@
 
 <br/>
 <br/>
+
 
 
 
